@@ -1,6 +1,6 @@
 # TriatlonMediaLuna
 
-![En construcción](https://upload.wikimedia.org/wikipedia/commons/e/ef/En_construccion.jpg)
+![En construcción](https://static.wixstatic.com/media/8bad88_2953fd6e6f01425f8176cd060a213aa7~mv2_d_3040_2022_s_2.jpg/v1/fill/w_1451,h_892,al_c,q_85,usm_0.66_1.00_0.01/8bad88_2953fd6e6f01425f8176cd060a213aa7~mv2_d_3040_2022_s_2.webp)
 
 ## Objetivo de la aplicación
 El objetivo de la aplicación es ...
