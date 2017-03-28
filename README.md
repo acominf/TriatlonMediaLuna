@@ -6,30 +6,33 @@
 El objetivo del proyecto es realizar un complemento para la página web encargada de la realización del triatlón de la media luna (http://www.triatlonmedialuna.com/) en dicho proyecto nos encargamos de realizar un complemento para agilizar el manejo de la información de los participantes así como el de realizar el pago automaticamente desde la página web.
 
 ## Descripción de la aplicación
-La descripción de la aplicación es ...
+Página web perteneciente a: http://www.triatlonmedialuna.com/ en la cual el usuario podra inscribirse como participante del triatlón y tambien en dicha página pagar la inscripción por medio de pay pal.  
 
 ## Descripción funcional
-La descripción funcional de la aplicación es ...
+El usuario podra ver toda la información relacionada con el triatlón de la media luna, información como: fechas, premios y requisitos de inscripción. 
 
 ### Funcionalidad 1
-La descripción de la funcionalidad 1 es ...
+Consultar toda la información relacionada con la organización y realización de este evento.
 
 ### Funcionalidad 2
-La descripción de la funcionalidad 2 es ...
+Inscripción del usuario directamente en la página web
 
 ### Funcionalidad 3
-La descripción de la funcionalidad 3 es ...
+Realizar el pago directamente en la página web por medio del servicio de pay pal.
 
 ### Funcionalidad 4
-La descripción de la funcionalidad 4 es ...
+El usuario podra checar sus tiempos en la carrera directamente en la página web. 
 
 ### Funcionalidad 5
-La descripción de la funcionalidad 5 es ...
+La pagina web notificara a los usuarios que no an completado su inscripción (Ya sea por falta de datos o de pago) que deben terminar su inscripción.
+
+### Funcionalidad 6
+El administrador y los organizadores del triatlón tambien seran notificados cuando un usuario no alla completado su inscripción.
 
 ## Autor(es)
 El autor(es) del proyecto son:
-- Nombre completo del autor 1 (@nombreUsuarioGitHub)
-- Nombre completo del autor 2 (@nombreUsuarioGitHub)
+- González Nieto Rogelio Daniel (@rodagoni91)
+- Limon Castillo Hugo Enrique (@nombreUsuarioGitHub)
 
 ## Materia(s)
 - Tecnologías Web
