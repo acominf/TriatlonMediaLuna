@@ -29,6 +29,8 @@ La pagina web notificara a los usuarios que no an completado su inscripción (Ya
 ### Funcionalidad 6
 El administrador y los organizadores del triatlón tambien seran notificados cuando un usuario no alla completado su inscripción.
 
+## Diagrama de componentes UML
+
 ## Autor(es)
 El autor(es) del proyecto son:
 - González Nieto Rogelio Daniel (@rodagoni91)
