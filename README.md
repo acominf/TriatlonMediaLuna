@@ -38,6 +38,9 @@ http://148.224.194.33/triatlon
 ## Diagrama de componentes UML
 ![Diagrama UML](https://raw.githubusercontent.com/acominf/TriatlonMediaLuna/master/docs/uml.jpg)
 
+## Diagrama entidad-relacion BD
+![Diagrama BD](https://raw.githubusercontent.com/acominf/TriatlonMediaLuna/master/docs/modelo.jpg)
+
 ## Autor(es)
 El autor(es) del proyecto son:
 - González Nieto Rogelio Daniel (@rodagoni91)
