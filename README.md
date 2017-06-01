@@ -33,6 +33,7 @@ El administrador y los organizadores del triatlón tambien seran notificados cua
 <iframe width="560" height="315" src="https://www.youtube.com/embed/G_Nn4M3B_yw" frameborder="0" allowfullscreen></iframe>
 
 ## Diagrama de componentes UML
+![Diagrama UML](https://raw.githubusercontent.com/acominf/TriatlonMediaLuna/master/docs/uml.jpg)
 
 ## Autor(es)
 El autor(es) del proyecto son:
